@@ -7,11 +7,11 @@
 
 ## Overview and Origin
 
-* Name of company
+* PathAI
 
-* When was the company incorporated?
+* Founded: 2016
 
-* Who are the founders of the company?
+* Aditya Khosla, Andy Beck, and David Schaffer
 
 * How did the idea for the company (or project) come about?
 
@@ -52,3 +52,8 @@
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+### Citations
+- PathAI Logo : https://www.pathai.com
+- Photo of Aditya Khosla 
