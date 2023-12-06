@@ -11,7 +11,7 @@
 Founded: 2016
 
 Founders
-|Aditya Khosla|![PathAI](https://github.com/oigwe-frx/pathAI-case-study/blob/main/PathAI-Logo-Horizontal-RGB(2).png) |
+|Aditya Khosla|![Aditya Khosla](https://mms.businesswire.com/media/20220621005237/en/1491213/5/Aditya_Khosla.jpg?download=1&_gl=1*nb8pf7*_ga*MTI2MDk5MTUxNC4xNzAxODk5MDA0*_ga_ZQWF70T3FK*MTcwMTg5OTAwMy4xLjAuMTcwMTg5OTAwNC41OS4wLjA.) |
 |--------|--------|
 |Aditya Khosla|![PathAI](https://github.com/oigwe-frx/pathAI-case-study/blob/main/PathAI-Logo-Horizontal-RGB(2).png) |
 |--|--|
