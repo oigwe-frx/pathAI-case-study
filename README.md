@@ -1,1 +1,1 @@
-# pathAI-case-study
+# AI Case Study: PathAT
