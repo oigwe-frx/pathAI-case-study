@@ -1,1 +1,2 @@
-# AI Case Study: PathAT
+# AI Case Study: PathAI ![PathAI](./)
+
