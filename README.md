@@ -8,10 +8,10 @@
 ## Overview and Origin
 
 **PathAI**
-Founded: 2016
+- Founded: 2016
 
-Founders
-|![Aditya Khosla](https://github.com/oigwe-frx/pathAI-case-study/blob/main/aditya_khosla.png) |
+**Founders**
+- |![Aditya Khosla](https://github.com/oigwe-frx/pathAI-case-study/blob/main/aditya_khosla.png) |
 |--------|--------|
 |Aditya Khosla|![PathAI](https://github.com/oigwe-frx/pathAI-case-study/blob/main/PathAI-Logo-Horizontal-RGB(2).png) |
 |--|--|
