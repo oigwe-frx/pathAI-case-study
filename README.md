@@ -1,5 +1,4 @@
-# <span style="color:purple">Path</span>AI: Revolutionizing Pathology with AI
-In his beard lived three <span style="color:red">cardinals</span>.
+# <span style="color🟣">Path</span>AI: Revolutionizing Pathology with AI
 
 ## Overview and Origin
 
