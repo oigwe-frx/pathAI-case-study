@@ -1,5 +1,4 @@
-# PathAI: Revolutionizing Pathology with AI
-<span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+# <span style="color:#2D284A">Path</span>AI: Revolutionizing Pathology with AI
 ## Overview and Origin
 
 - **Name of company:** *PathAI*
