@@ -11,7 +11,7 @@
 - Founded: 2016
 
 **Founders**
-- |![Aditya Khosla](https://github.com/oigwe-frx/pathAI-case-study/blob/main/aditya_khosla.png) |
+- |![Aditya Khosla](https://github.com/oigwe-frx/pathAI-case-study/blob/main/aditya_khosla (1).png) |
 - <a href="https://imageresizer.com/" target="_blank">Image Resizer</a>
 |--------|--------|
 |Aditya Khosla|![PathAI](https://github.com/oigwe-frx/pathAI-case-study/blob/main/PathAI-Logo-Horizontal-RGB(2).png) |
