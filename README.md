@@ -1,4 +1,4 @@
-<span style="color🟣">Path</span>AI: Revolutionizing Pathology with AI
+# PathAI: <sub>Revolutionizing Pathology with AI</sub>
 
 ## Overview and Origin
 
