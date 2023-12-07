@@ -1,4 +1,4 @@
-# <span style="color:#2D284A">Path</span>AI: Revolutionizing Pathology with AI
+# <span style="color:purple">Path</span>AI: Revolutionizing Pathology with AI
 ## Overview and Origin
 
 - **Name of company:** *PathAI*
