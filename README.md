@@ -41,7 +41,7 @@ PathAI operates in the field of healthcare technology, specifically in the inter
 Over the past 20 years, there have been significant trends and innovations in computational pathology. Integrating AI and machine learning into pathology has led to the development of automated image analysis, predictive diagnostics, and personalized treatment recommendations. Digital pathology and the creation of comprehensive pathology databases have also become increasingly prevalent [^11^].
 
 **Major Companies in the Field:**
-PathAI faces competition from companies such as Deciphex, Ibex, PredxBio, and others, also working on digital pathology solutions. The field is dynamic, with established healthcare companies and startups entering the space [^12^].
+PathAI faces competition from companies such as Deciphex, Ibex, PredxBio, and others working on digital pathology solutions. The field is dynamic, with established healthcare companies and startups entering the space [^12^].
 
 > "PathAI has made substantial progress in improving pathology diagnostics."
 
@@ -59,10 +59,10 @@ Key metrics in the healthcare technology and computational pathology space inclu
 - Field innovation, such as patents.
 - Secured funding.
 
-Improvements in these metrics would measure PathAI's success. As of 2023, Tracxn, with its proprietary scoring, ranks PathAI as #2 out of 184 competitors [^13^]. The Tracxn score is "composed of four metrics: Size Score, Execution Score, Growth Score, and Team Score" [^14^].
+Improvements in these metrics would measure PathAI's success. As of 2023,  PathAI. According to the PathAI website, 90% of cases are analyzed within 24 - 72 hours[^13^]. According to Golden.com, PathAI has 6 patents, with the last granted in  December 2022 [^14^]
 
 **Performance Relative to Competitors:**
-PathAI has established itself as a significant player in the computational pathology market, but competition is fierce. Its performance relative to competitors would depend on factors such as the accuracy of its AI algorithms, the speed of adoption by healthcare institutions, and the ability to expand its product offerings. As previously indicated, PathAI is relatively highly ranked compared to other competitors.
+PathAI has established itself as a significant player in the computational pathology market, but competition is fierce. Its performance relative to competitors would depend on factors such as the accuracy of its AI algorithms, the speed of adoption by healthcare institutions, and the ability to expand its product offerings. As previously indicated, PathAI is relatively highly ranked compared to other competitors. Tracxn, with its proprietary scoring, ranks PathAI as #2 out of 184 competitors [^15^]. The Tracxn score is "composed of four metrics: Size Score, Execution Score, Growth Score, and Team Score" [^16^].
 
 ## Recommendations
 
@@ -94,6 +94,8 @@ The suggested products and services would utilize AI, machine learning, cloud co
 [^10^]: PyTorch: Case Study: PathAI Uses PyTorch to Improve Patient Outcomes with AI-powered Pathology. [https://pytorch.org/blog/PathAI-Uses-PyTorch-to-Improve-Patient-Outcomes-with-AI-powered-Pathology/](https://pytorch.org/blog/PathAI-Uses-PyTorch-to-Improve-Patient-Outcomes-with-AI-powered-Pathology/)
 [^11^]: Proscia: What is Digital Pathology. [https://proscia.com/company/what-is-digital-pathology](https://proscia.com/company/what-is-digital-pathology)
 [^12^]: CB Insights: Top PathAI Alternatives, Competitors. [https://www.cbinsights.com/company/pathai/alternatives-competitors](https://www.cbinsights.com/company/pathai/alternatives-competitors)
-[^13^]: Tracxn: PathAI Company Profile. [https://tracxn.com/d/companies/pathai/__EKVHLLZHuSMeEeOv2jza0bAYsz7_EPlbYjHpiUuz2q0](https://tracxn.com/d/companies/pathai/__EKVHLLZHuSMeEeOv2jza0bAYsz7_EPlbYjHpiUuz2q0)
-[^14^]: Tracxn: What is the Tracxn Score?
-;[https://help.tracxn.com/en/articles/6655284-what-is-tracxn-score](https://help.tracxn.com/en/articles/6655284-what-is-tracxn-score)
+[^13^]: PathAI: Diagnostics. [https://www.pathai.com/diagnostics/](https://www.pathai.com/diagnostics/)
+[^14^]: Golden: List of PathAI Patents. [https://golden.com/query/list-of-pathai-company-patents-PMJG](https://golden.com/query/list-of-pathai-company-patents-PMJG)
+[^15^]: Tracxn: PathAI Company Profile. [https://tracxn.com/d/companies/pathai/__EKVHLLZHuSMeEeOv2jza0bAYsz7_EPlbYjHpiUuz2q0](https://tracxn.com/d/companies/pathai/__EKVHLLZHuSMeEeOv2jza0bAYsz7_EPlbYjHpiUuz2q0)
+[^16^]: Tracxn: What is the Tracxn Score? [https://help.tracxn.com/en/articles/6655284-what-is-tracxn-score](https://help.tracxn.com/en/articles/6655284-what-is-tracxn-score)
+
