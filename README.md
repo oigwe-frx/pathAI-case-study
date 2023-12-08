@@ -19,16 +19,18 @@ PathAI has secured funding through several rounds of investments. PathAI has rai
 ## Business Activities
 
 **Problem Addressed:**
-PathAI aims to address the challenges in pathology diagnostics. Pathologists traditionally rely on manually examining "tissue samples under a microscope, which can be time-consuming and" subject to human error [^6^]. PathAI's goal is to leverage AI to automate and augment the pathology workflow, improving accuracy and efficiency in disease diagnosis.
+PathAI aims to address the challenges in pathology diagnostics. Pathologists traditionally rely on manually examining "tissue samples under a microscope, which can be time-consuming and" subject to human error [^6^]. PathAI's goal is to leverage AI to automate and augment the pathology workflow, creating a work-flow standard, and improving accuracy and efficiency in disease diagnosis.
+
+> "The mentoring being the bedrock [in the teaching and implementation of pathology], it’s not very scalable, it’s extremely heterogeneous, it’s very hard to standardize, and you’re literally almost always starting from scratch. So, I could go through five years of training pathology that goes on top of say 16 or something years before, and then I’m out in the field for a number of years and my knowledge is not really being systematically transferred to anyone else. And then someone else starts, they’re starting from scratch. Whereas we all know when you have the best machine learning algorithm and it’s gathering data from all over the world, it’s constantly getting better and you’re never starting from scratch" ***Dr. Andy Beck*** [^7^]
 
 **Intended Customers:**
-PathAI's primary customers are pathologists, clinical laboratories, and healthcare institutions. The market for pathology services is substantial, as "it impacts nearly all aspects of patient care, from diagnosing cancer to managing chronic diseases through accurate laboratory testing" [^7^].
+PathAI's primary customers are pathologists, clinical laboratories, and healthcare institutions. The market for pathology services is substantial, as "it impacts nearly all aspects of patient care, from diagnosing cancer to managing chronic diseases through accurate laboratory testing" [^8^].
 
 **Unique Solution:**
-PathAI offers a cutting-edge platform that, using extensive datasets sourced from hospitals and labs, employs deep learning and computer vision techniques to design the models to assist pathologists in diagnosing diseases from digitized pathology slides. Their AI algorithms can identify and highlight potential areas of medical concern, such as breast cancer, inflammatory bowel disease, and fibrosis, and enable pathologists to make more accurate and efficient diagnoses [^8^].
+PathAI offers a cutting-edge platform that, using extensive datasets sourced from hospitals and labs, employs deep learning and computer vision techniques to design the models to assist pathologists in diagnosing diseases from digitized pathology slides. Their AI algorithms can identify and highlight potential areas of medical concern, such as breast cancer, inflammatory bowel disease, and fibrosis, and enable pathologists to make more accurate and efficient diagnoses [^9^].
 
 **Technologies Used:**
-PathAI utilizes various technologies, including deep learning frameworks such as TensorFlow and PyTorch, computer vision techniques, and large-scale data processing infrastructure. They also incorporate natural language processing (NLP) to extract valuable insights from pathology reports [^9^].
+PathAI utilizes various technologies, including deep learning frameworks such as TensorFlow and PyTorch, computer vision techniques, and large-scale data processing infrastructure. They also incorporate natural language processing (NLP) to extract valuable insights from pathology reports [^10^].
 
 ## Landscape
 
@@ -36,10 +38,10 @@ PathAI utilizes various technologies, including deep learning frameworks such as
 PathAI operates in the field of healthcare technology, specifically in the intersection of artificial intelligence and pathology. This field is known as computational pathology.
 
 **Trends and Innovations:**
-Over the past 20 years, there have been significant trends and innovations in computational pathology. Integrating AI and machine learning into pathology has led to the development of automated image analysis, predictive diagnostics, and personalized treatment recommendations. Digital pathology and the creation of comprehensive pathology databases have also become increasingly prevalent [^10^].
+Over the past 20 years, there have been significant trends and innovations in computational pathology. Integrating AI and machine learning into pathology has led to the development of automated image analysis, predictive diagnostics, and personalized treatment recommendations. Digital pathology and the creation of comprehensive pathology databases have also become increasingly prevalent [^11^].
 
 **Major Companies in the Field:**
-PathAI faces competition from companies such as Deciphex, Ibex, PredxBio, and others, also working on digital pathology solutions. The field is dynamic, with established healthcare companies and startups entering the space [^11^].
+PathAI faces competition from companies such as Deciphex, Ibex, PredxBio, and others, also working on digital pathology solutions. The field is dynamic, with established healthcare companies and startups entering the space [^12^].
 
 > "PathAI has made substantial progress in improving pathology diagnostics."
 
@@ -57,7 +59,7 @@ Key metrics in the healthcare technology and computational pathology space inclu
 - Field innovation, such as patents.
 - Secured funding.
 
-Improvements in these metrics would measure PathAI's success. As of 2023, Tracxn, with its proprietary scoring, ranks PathAI as #2 out of 184 competitors [^12^]. The Tracxn score is "composed of four metrics: Size Score, Execution Score, Growth Score, and Team Score" [^13^].
+Improvements in these metrics would measure PathAI's success. As of 2023, Tracxn, with its proprietary scoring, ranks PathAI as #2 out of 184 competitors [^13^]. The Tracxn score is "composed of four metrics: Size Score, Execution Score, Growth Score, and Team Score" [^14^].
 
 **Performance Relative to Competitors:**
 PathAI has established itself as a significant player in the computational pathology market, but competition is fierce. Its performance relative to competitors would depend on factors such as the accuracy of its AI algorithms, the speed of adoption by healthcare institutions, and the ability to expand its product offerings. As previously indicated, PathAI is relatively highly ranked compared to other competitors.
@@ -86,11 +88,12 @@ The suggested products and services would utilize AI, machine learning, cloud co
 [^4^]: PathAI: About Us. [https://www.pathai.com/about-us/](https://www.pathai.com/about-us/)
 [^5^]: HealthTech ER: PathAI raises $165 million in Series C funding round for its diagnostic and drug development software. [https://healthtech.eu/news/pathai-raises-165-million-in-series-c-funding-round-for-its-diagnostic-and-drug-development-software](https://healthtech.eu/news/pathai-raises-165-million-in-series-c-funding-round-for-its-diagnostic-and-drug-development-software)
 [^6^]: Role of AI in Pathology: Transforming Cancer Detection and Diagnosis. [https://anyuakmedia.com/role-of-ai-in-pathology-transforming-cancer-detection-and-diagnosis/](https://anyuakmedia.com/role-of-ai-in-pathology-transforming-cancer-detection-and-diagnosis/)
-[^7^]: College of American Pathologists: What is Pathology. [https://www.cap.org/member-resources/articles/what-is-pathology](https://www.cap.org/member-resources/articles/what-is-pathology)
-[^8^]: PathAI: About Us. [https://www.pathai.com/about-us/](https://www.pathai.com/about-us/)
-[^9^]: PyTorch: Case Study: PathAI Uses PyTorch to Improve Patient Outcomes with AI-powered Pathology. [https://pytorch.org/blog/PathAI-Uses-PyTorch-to-Improve-Patient-Outcomes-with-AI-powered-Pathology/](https://pytorch.org/blog/PathAI-Uses-PyTorch-to-Improve-Patient-Outcomes-with-AI-powered-Pathology/)
-[^10^]: Proscia: What is Digital Pathology. [https://proscia.com/company/what-is-digital-pathology](https://proscia.com/company/what-is-digital-pathology)
-[^11^]: CB Insights: Top PathAI Alternatives, Competitors. [https://www.cbinsights.com/company/pathai/alternatives-competitors](https://www.cbinsights.com/company/pathai/alternatives-competitors)
-[^12^]: Tracxn: PathAI Company Profile. [https://tracxn.com/d/companies/pathai/__EKVHLLZHuSMeEeOv2jza0bAYsz7_EPlbYjHpiUuz2q0](https://tracxn.com/d/companies/pathai/__EKVHLLZHuSMeEeOv2jza0bAYsz7_EPlbYjHpiUuz2q0)
-[^13^]: Tracxn: What is the Tracxn Score?
+[^7^]: TheConcertAI Podcast: The Future of Digital Pathology. []
+[^8^]: College of American Pathologists: What is Pathology. [https://www.cap.org/member-resources/articles/what-is-pathology](https://www.cap.org/member-resources/articles/what-is-pathology)
+[^9^]: PathAI: About Us. [https://www.pathai.com/about-us/](https://www.pathai.com/about-us/)
+[^10^]: PyTorch: Case Study: PathAI Uses PyTorch to Improve Patient Outcomes with AI-powered Pathology. [https://pytorch.org/blog/PathAI-Uses-PyTorch-to-Improve-Patient-Outcomes-with-AI-powered-Pathology/](https://pytorch.org/blog/PathAI-Uses-PyTorch-to-Improve-Patient-Outcomes-with-AI-powered-Pathology/)
+[^11^]: Proscia: What is Digital Pathology. [https://proscia.com/company/what-is-digital-pathology](https://proscia.com/company/what-is-digital-pathology)
+[^12^]: CB Insights: Top PathAI Alternatives, Competitors. [https://www.cbinsights.com/company/pathai/alternatives-competitors](https://www.cbinsights.com/company/pathai/alternatives-competitors)
+[^13^]: Tracxn: PathAI Company Profile. [https://tracxn.com/d/companies/pathai/__EKVHLLZHuSMeEeOv2jza0bAYsz7_EPlbYjHpiUuz2q0](https://tracxn.com/d/companies/pathai/__EKVHLLZHuSMeEeOv2jza0bAYsz7_EPlbYjHpiUuz2q0)
+[^14^]: Tracxn: What is the Tracxn Score?
 ;[https://help.tracxn.com/en/articles/6655284-what-is-tracxn-score](https://help.tracxn.com/en/articles/6655284-what-is-tracxn-score)
