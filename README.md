@@ -1,4 +1,4 @@
-# PathAI: Revolutionizing Pathology with AI
+# ![PathAI](https://github.com/oigwe-frx/pathAI-case-study/blob/main/PathAI-Logo-Horizontal-RGB(2).png) ***<sup>: A Case Study Revolutionizing Pathology with AI</sup>***
 
 ## Overview and Origin
 
