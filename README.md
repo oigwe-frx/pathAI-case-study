@@ -19,7 +19,7 @@ PathAI has secured funding through several rounds of investments. PathAI has rai
 ## Business Activities
 
 **Problem Addressed:**
-PathAI aims to address the challenges in pathology diagnostics. Pathologists traditionally rely on manually examining "tissue samples under a microscope, which can be time-consuming and" subject to human error [^6^]. PathAI's goal is to leverage AI to automate and augment the pathology workflow, creating a work-flow standard, and improving accuracy and efficiency in disease diagnosis.
+PathAI aims to address the challenges in pathology diagnostics. Pathologists traditionally rely on manually examining "tissue samples under a microscope, which can be time-consuming and" subject to human error [^6^]. PathAI's goal is to leverage AI to automate and augment the pathology workflow, creating a workflow standard and improving accuracy and efficiency in disease diagnosis.
 
 > "The mentoring being the bedrock [in the teaching and implementation of pathology], it’s not very scalable, it’s extremely heterogeneous, it’s very hard to standardize, and you’re literally almost always starting from scratch. So, I could go through five years of training pathology that goes on top of say 16 or something years before, and then I’m out in the field for a number of years and my knowledge is not really being systematically transferred to anyone else. And then someone else starts, they’re starting from scratch. Whereas we all know when you have the best machine learning algorithm and it’s gathering data from all over the world, it’s constantly getting better and you’re never starting from scratch" ***Dr. Andy Beck*** [^7^]
 
@@ -59,10 +59,10 @@ Key metrics in the healthcare technology and computational pathology space inclu
 - Field innovation, such as patents.
 - Secured funding.
 
-Improvements in these metrics would measure PathAI's success. As of 2023,  PathAI. According to the PathAI website, 90% of cases are analyzed within 24 - 72 hours[^13^]. According to Golden.com, PathAI has 6 patents, with the last granted in  December 2022 [^14^]
+Improvements in these metrics would measure PathAI's success. As of 2023,  PathAI. According to the PathAI website, 90% of cases are analyzed within 24 - 72 hours [^13^]. According to Golden.com, PathAI has 6 patents, with the last granted in  December 2022 [^14^].
 
 **Performance Relative to Competitors:**
-PathAI has established itself as a significant player in the computational pathology market, but competition is fierce. Its performance relative to competitors would depend on factors such as the accuracy of its AI algorithms, the speed of adoption by healthcare institutions, and the ability to expand its product offerings. As previously indicated, PathAI is relatively highly ranked compared to other competitors. Tracxn, with its proprietary scoring, ranks PathAI as #2 out of 184 competitors [^15^]. The Tracxn score is "composed of four metrics: Size Score, Execution Score, Growth Score, and Team Score" [^16^].
+PathAI has established itself as a significant player in the computational pathology market, but competition is fierce. Its performance relative to competitors would depend on factors such as the accuracy of its AI algorithms, the speed of adoption by healthcare institutions, and the ability to expand its product offerings. As previously indicated, PathAI is relatively highly ranked compared to other competitors. Tracxn, with its proprietary scoring, ranks PathAI as #2 out of 184 competitors [^15^]. The Tracxn score is "composed of four metrics: Size Score, Execution Score, Growth Score, and Team Score" [^16^]. To continue the comparison, as mentioned previously, PathAI was granted 6 patents. One of its main competitions has been granted 3 [^17^].  
 
 ## Recommendations
 
@@ -98,4 +98,6 @@ The suggested products and services would utilize AI, machine learning, cloud co
 [^14^]: Golden: List of PathAI Patents. [https://golden.com/query/list-of-pathai-company-patents-PMJG](https://golden.com/query/list-of-pathai-company-patents-PMJG)
 [^15^]: Tracxn: PathAI Company Profile. [https://tracxn.com/d/companies/pathai/__EKVHLLZHuSMeEeOv2jza0bAYsz7_EPlbYjHpiUuz2q0](https://tracxn.com/d/companies/pathai/__EKVHLLZHuSMeEeOv2jza0bAYsz7_EPlbYjHpiUuz2q0)
 [^16^]: Tracxn: What is the Tracxn Score? [https://help.tracxn.com/en/articles/6655284-what-is-tracxn-score](https://help.tracxn.com/en/articles/6655284-what-is-tracxn-score)
+[^17^]: CB Insights: Deiphex: Products, Competitors, Financials. [https://www.cbinsights.com/company/deciphex](https://www.cbinsights.com/company/deciphex)
+
 
